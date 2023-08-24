@@ -1,8 +1,8 @@
-## Payment method
+# Payment method
 
 My means of payment arises from the need presented by users to be able to manage the cards stored on the site and have greater control over them, that is why from this module you can see the representation of all registered cards having the option to delete them.
 
-# Below is a brief description of the workflow followed to create the 'My means of payment' experience:
+## Below is a brief description of the workflow followed to create the 'My means of payment' experience:
 
 - Creation of custom hook to consume get service to list the cards, and delete service to delete them.
 
@@ -26,12 +26,12 @@ My means of payment arises from the need presented by users to be able to manage
 
 - Creation of a tooltip component to provide feedback to the user after removing their card.
 
-# Here are some photos of the results obtained:
+## Here are some photos of the results obtained:
 
 - Loaders: 
 
 ![img](imgs/loaderBig.png)
-![img](imgs/loaderSmall.png)
+![img](imgs/loaderSmall.jpeg)
 
 - List: 
 
